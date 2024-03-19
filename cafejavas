@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>cafe javas</title>
+    <link rel="stylesheet" href="STYLE.CSS">
+</head>
+<body>
+    <div>
+    <div>
+    </div>
+    <button>START ORDER</button>
+    <img src="logo-white.png" alt="">
+    <nav>
+        <div>
+            <img src="menu.png" alt="">
+            <a href="MENU">MENU</a>
+        </div>
+        <div>
+        <img src="locations.png" alt="">
+        <a href="LOCATION">LOCATION</a>
+        </div>
+        <div>
+            <img src="blog.png" alt="">
+            <a href="CAREER">CAREERS</a>
+        </div>
+        <div>
+            <img src="about-us.png" alt="">
+            <a href="FEEDBACKS">FEEDBACKS</a>
+        </div>
+        <div>
+        <img src="menu (2).png" alt="">
+        <a href="ABOUT US">ABOUT US</a>
+        </div>
+    </nav>
+</body>
+</html>

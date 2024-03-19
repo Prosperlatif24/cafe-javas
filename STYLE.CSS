@@ -1,0 +1,10 @@
+body{
+    background-image: url(banner-8.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+button{background-color: red;
+background-position: center;
+border-radius: 12px;
+padding: 20px 20px;}
